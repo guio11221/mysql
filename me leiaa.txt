@@ -1,0 +1,11 @@
+Primeiros comandos :
+ 
+ 1- npm i
+
+ para rodar o Server com nodemon:
+
+ 1- npm rum dev  
+
+para rodar o Server sem nodemon:
+
+1- npm start
